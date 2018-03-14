@@ -1,0 +1,48 @@
+Last year, ransomware stories dominated most headlines in
+the world which included damages done by Wanna Cry and Petya attacks to many
+individuals and organisations. With new variants coming up every day, malware have become fast,
+brutal, and instantly disruptive. Advanced cyber criminals are now focused on
+crypto currencies, they covertly infect users’ computers with software to do
+the calculations needed to generate crypto currency i.e. digital money that uses
+cryptography to make secure online transactions without the need for banks e.g.
+Bitcoin, Monero and Ethereum; the crooks keep any cryptocoin proceeds for
+themselves. This process is referred to as crypto mining. They do this because, to make any real money with coin mining,
+it requires massive amounts of computer processing power, which slows down
+performance and leaves wear and tear. According to an article on crypto mining by Sophos, unlike
+other malwares, crypto miner don’t encrypt users files, they are able to access
+their data which makes crypto mining sound fair compared to ransomware. However,
+users’ computers will probably be annoyingly slow, the fans will be roaring all
+the time and their battery life will somehow run low. These attacks might be serious on mobile devices since they
+affect battery life associated with continuous super-heavy processor usage which
+results in permanent damage. Until recently, crypto mining wasn’t always a problem
+because the activity was largely limited to those who chose to do it. That began to change as crypto currency prices skyrocketed.
+A single Bitcoin was worth $1000 at the start of 2017 and was valued at around
+$17,000 by year’s end. Cyber thieves have now taken notice and started using
+crypto miners to make money. For instance, JavaScript miners like those from Coin hive
+are added to websites and run in the browser, using visitors’ CPUs to generate
+crypto currency. Users may notice poor performance, a spike in CPU usage and
+batteries draining faster than usual. “Evolving malwares continuously force us to evolve our
+defenses to try closing all attack vectors by bad guys like crypto miners who take
+advantage of computing users and organizations”. Says Harish Chib, Vice President
+Middle East and Africa, Sophos. They do this because, to make any real money with coin mining,
+one needs a lot of electricity to deliver a lot processing power on a lot of
+computers. So they can either rent space in a giant coin mining server
+farms, for example in Iceland, where electricity is cheap and the weather is
+cold enough to cool computers from melting down or they are forced to steal
+other people’s electricity, processing power and air conditioning by using a malware
+to sneak crypto miners into their networks and browsers. Legitimate crypto mining programs ask users for permission
+to run. Malicious versions don’t, opting instead to quietly leach a computer’s
+resources. In other words, instead of showing up as executable files,
+they take the form of scripts hidden on websites, mining for crypto currency in
+the browser. Without permission, these miners tap into the victim’s CPU and use
+the processing power to mine for digital currency. Visitors to these sites see
+no evidence of the mining. The only clues that something may be amiss are their computer
+slowing down and their fans revving up. Malicious miners are most typically hidden on third-party
+web pages and in Android apps. Bitcoin has been the currency of choice for the
+bad guys, but Monero is becoming a lot more popular because it does not require
+as much processing power as it takes to dig for Bitcoin. Ironically, a lot of coin mining software advises users not
+to bother running it on mobile phones: because the computing power of your
+mobile devices isn’t sufficient for decent results, so the costs outweigh the
+benefits. Cyber criminals are now willing to put a lot of effort into getting
+their crypto mining code accepted into the Android Play Store, and thus to have
+it “blessed” with Google’s imprimatur.
